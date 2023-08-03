@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/universidadean/centralpacientes/interfaz/DialogoInsertarPaciente.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/universidadean/centralpacientes/interfaz/DialogoMostrarInformarcionPaciente.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/universidadean/centralpacientes/interfaz/DialogoOpcionesInsertar.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/universidadean/centralpacientes/interfaz/InterfazCentralPacientes.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/universidadean/centralpacientes/interfaz/PanelExtension.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/universidadean/centralpacientes/interfaz/PanelImagen.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/universidadean/centralpacientes/interfaz/PanelInformacionPaciente.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/universidadean/centralpacientes/interfaz/PanelListaPacientes.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/universidadean/centralpacientes/interfaz/PanelOpcionesInsertar.java" charset="windows-1252" />
+  </component>
+</project>

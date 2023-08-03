@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d755e49-33d3-4ab5-90ab-aa03deb3a6ad" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1iToCrnGoW2RBxuj0GXcOiU0syq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552873593355" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/TallerUtilidadPilasAP" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunManager" selected="JUnit.ConvertidorDeInfijoAPostfijoTest.pruebaFinal">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConvertidorDeInfijoAPostfijoTest.probarBalanceador" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TallerUtilidadPilas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ean.estructuradedatos.tallerpilas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ean.estructuradedatos.tallerpilas" />
+      <option name="MAIN_CLASS_NAME" value="ean.estructuradedatos.tallerpilas.ConvertidorDeInfijoAPostfijoTest" />
+      <option name="METHOD_NAME" value="probarBalanceador" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConvertidorDeInfijoAPostfijoTest.probarConvertirInfijoPostfijo (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TallerUtilidadPilas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ean.estructuradedatos.tallerpilas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ean.estructuradedatos.tallerpilas" />
+      <option name="MAIN_CLASS_NAME" value="ean.estructuradedatos.tallerpilas.ConvertidorDeInfijoAPostfijoTest" />
+      <option name="METHOD_NAME" value="probarConvertirInfijoPostfijo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConvertidorDeInfijoAPostfijoTest.probarConvertirInfijoPostfijo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TallerUtilidadPilas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ean.programacionavanzada.taller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ean.programacionavanzada.taller" />
+      <option name="MAIN_CLASS_NAME" value="ean.programacionavanzada.taller.ConvertidorDeInfijoAPostfijoTest" />
+      <option name="METHOD_NAME" value="probarConvertirInfijoPostfijo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConvertidorDeInfijoAPostfijoTest.pruebaFinal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TallerUtilidadPilas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ean.estructuradedatos.tallerpilas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ean.estructuradedatos.tallerpilas" />
+      <option name="MAIN_CLASS_NAME" value="ean.estructuradedatos.tallerpilas.ConvertidorDeInfijoAPostfijoTest" />
+      <option name="METHOD_NAME" value="pruebaFinal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConvertidorDeInfijoAPostfijoTest.testReplaceDelimiters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TallerUtilidadPilas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ean.estructuradedatos.tallerpilas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ean.estructuradedatos.tallerpilas" />
+      <option name="MAIN_CLASS_NAME" value="ean.estructuradedatos.tallerpilas.ConvertidorDeInfijoAPostfijoTest" />
+      <option name="METHOD_NAME" value="testReplaceDelimiters" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ConvertidorDeInfijoAPostfijoTest.pruebaFinal" />
+        <item itemvalue="JUnit.ConvertidorDeInfijoAPostfijoTest.testReplaceDelimiters" />
+        <item itemvalue="JUnit.ConvertidorDeInfijoAPostfijoTest.probarConvertirInfijoPostfijo (1)" />
+        <item itemvalue="JUnit.ConvertidorDeInfijoAPostfijoTest.probarBalanceador" />
+        <item itemvalue="JUnit.ConvertidorDeInfijoAPostfijoTest.probarConvertirInfijoPostfijo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d755e49-33d3-4ab5-90ab-aa03deb3a6ad" name="Default Changelist" comment="" />
+      <created>1552868254686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552868254686</updated>
+      <workItem from="1552868259688" duration="1849000" />
+      <workItem from="1552942114859" duration="13000" />
+      <workItem from="1601940819323" duration="1667000" />
+      <workItem from="1602121187715" duration="1194000" />
+      <workItem from="1602162488593" duration="649000" />
+      <workItem from="1615857928685" duration="503000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TallerUtilidadPilas$ConvertidorDeInfijoAPostfijoTest_pruebaFinal.ic" NAME="ConvertidorDeInfijoAPostfijoTest.pruebaFinal Coverage Results" MODIFIED="1631665645787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ean.estructuradedatos.tallerpilas.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>JDK-11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
